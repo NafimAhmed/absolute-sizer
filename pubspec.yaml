@@ -1,11 +1,11 @@
 name: absolute_sizer
-description: "A new Flutter project."
+description: "A package for making screen design responsive"
 version: 0.0.1
-homepage: https://github.com/NafimAhmed/overlapped-image-list
-repository: https://github.com/NafimAhmed/overlapped-image-list
+homepage: https://github.com/NafimAhmed/absolute-sizer
+repository: https://github.com/NafimAhmed/absolute-sizer
 
 environment:
-  sdk: ^3.5.4
+  sdk: ">=2.17.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
